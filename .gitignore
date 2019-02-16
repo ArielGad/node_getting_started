@@ -1,5 +1,6 @@
 # Jetbrains
 /.idea
+vcs.xml
 
 # Dependency directories
 node_modules/
